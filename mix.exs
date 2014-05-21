@@ -11,7 +11,7 @@ defmodule JSON.Mixfile do
   end
 
   def application, do: []
-  
+
   def deps(:prod), do: []
 
   def deps(:docs) do
